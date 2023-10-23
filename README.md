@@ -37,14 +37,15 @@
 <h3 align="center">✨Github Stats:</h3>
 
 <p align="center">
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=HaniyeAkbari&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="knotsid stats" /><br><br>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=HaniyeAkbari&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="stats" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniyeAkbari&layout=donut&theme=vision-friendly-dark" alt="Top Langs" height="175">
+
+
 <!-- <h3 align="left">✨Github Activity:</h3> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=HaniyeAkbari&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Status"/><br><br> -->
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaniyeAkbari&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages"> -->
 
-<img src="https://raw.githubusercontent.com/HaniyeAkbari/github-stats-gen/master/generated/overview.svg#gh-dark-mode-only"/>
 
-<img src="https://raw.githubusercontent.com/HaniyeAkbari/github-stats-gen/master/generated/languages.svg#gh-dark-mode-only"/>
 
 
  <h3 align="left">⚡Activity Graph:</h3>
